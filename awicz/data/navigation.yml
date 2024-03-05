@@ -1,0 +1,10 @@
+header:
+- Title: About
+  url: /about
+
+sidebarNav:
+  - Title: About
+    url: /about
+
+sidebar:
+nav: sidebarNav
